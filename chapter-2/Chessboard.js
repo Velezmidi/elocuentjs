@@ -24,4 +24,4 @@ const chessBoard = (number) => {
   }
 };
 
-chessBoard(8);
+chessBoard(15);
