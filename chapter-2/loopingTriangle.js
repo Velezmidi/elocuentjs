@@ -5,4 +5,4 @@ const looping = (number) => {
 };
 
 looping(7);
-// looping(3);
+looping(9);
